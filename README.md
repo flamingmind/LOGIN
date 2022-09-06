@@ -1,4 +1,4 @@
-#<h1 class="LC20lb MBeuO DKV0Md"><span style="color: #ff9900;">✰ REGISTRATION&nbsp;✰</span></h1>
+<h1 class="LC20lb MBeuO DKV0Md"><span style="color: #ff9900;">✰ REGISTRATION&nbsp;✰</span></h1>
 <p dir="auto">You will be registered into the application</p>
 <p dir="auto">database for <strong><span style="color: #ff9900;">SUGMA CO.</span></strong> Here! Connected</p>
 <p dir="auto">Site Changes Monthly! <em><span style="color: #0000ff;">Powered by Zapier.</span></em></p>
