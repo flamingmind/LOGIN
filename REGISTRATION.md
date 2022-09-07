@@ -5,3 +5,13 @@
 <p dir="auto">&nbsp;</p>
 <p dir="auto">&nbsp;</p>
 <p dir="auto"><span style="color: #99cc00;">AD: Check out my site here:</span>&nbsp;<a href="https://www.teamvoid.cf/" rel="nofollow">https://www.teamvoid.cf</a></p>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://www.w3docs.com'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://www.w3docs.com">this link</a>.</p>
+  </body>
+</html>
