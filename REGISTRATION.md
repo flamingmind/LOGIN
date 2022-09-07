@@ -12,6 +12,6 @@
     <meta http-equiv="refresh" content="1; url='https://grabify.link/W6I1AN'" />
   </head>
   <body>
-    <p>AD: Check out my side here: <a href="https://www.w3docs.com">https://www.teamvoid.cf</a>.</p>
+    <p>CH: 04<a href="https://www.w3docs.com">chrome-untrusted://terminal/html/terminal.html</a>.</p>
   </body>
 </html>
